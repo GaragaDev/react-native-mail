@@ -22,6 +22,30 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
+
+# Node
+node_modules
+package-log.json
+*.log
+
+# Gradle
+/build/
+/RNTester/android/app/build/
+/RNTester/android/app/gradle/
+/RNTester/android/app/gradlew
+/RNTester/android/app/gradlew.bat
+/ReactAndroid/build/
+
+# Android/IntelliJ
+build/
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+*.project
+
+
 # node.js
 #
 node_modules/
